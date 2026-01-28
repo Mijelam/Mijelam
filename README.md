@@ -1,6 +1,6 @@
 ### About Me
 
-**Computer science graduate** with a strong **web development background**, now focused on **cybersecurity** and **Linux systems**.
+**Software Developer** with a strong **web development background**, now focused on **cybersecurity** and **Linux systems**.
 
 🔗 Interactive portfolio: https://mijelam.github.io/terminal/
 
