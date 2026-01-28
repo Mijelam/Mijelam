@@ -1,6 +1,6 @@
 ### About Me
 
-**Software Developer** with a strong **web development background**, now focused on **cybersecurity** and **Linux systems**.
+**Software Developer** with a strong **web development background**, now focused on **security** and **SOC roles**.
 
 🔗 Interactive portfolio: https://mijelam.github.io/terminal/
 
